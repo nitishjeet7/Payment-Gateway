@@ -1,4 +1,3 @@
-# Spark.github.io
 # Spark Foundation
 In this repository  contains all the code for creating a simple but effective Payment Gateaway
 
