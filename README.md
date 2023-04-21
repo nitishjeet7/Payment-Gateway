@@ -1,4 +1,4 @@
-# Spark Foundation
+# Donation Payment Gateway
 In this repository  contains all the code for creating a simple but effective Payment Gateaway
 
 # About This Repository
